@@ -86,3 +86,8 @@ Sol Plaatje University
 ⦁	LinkedIn: https://www.linkedin.com/in/moses-mmakola-9a08bb378
 
 ---
+
+![login](its_screenshots/login.png)
+![home](its_screenshots/home.png)
+![content](its_screenshots/content.png)
+![lesson](its_screenshots/lesson.png)
