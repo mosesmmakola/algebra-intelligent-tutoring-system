@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+
+# These are the things you should run.
+    # pip install -r requirements.txt
+
+    # streamlit run frontend\app.py
+
+# Run if you want to restart the system
+    # python setup.py
+        # -Then choose 2, then enter "y"
+    # python setup.py
+        # -Then choose 1
+
